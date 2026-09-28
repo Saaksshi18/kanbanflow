@@ -1,5 +1,8 @@
 #  KanbanFlow — Real-Time Collaborative Kanban Board
 
+Website Link: https://script.google.com/a/macros/kiit.ac.in/s/AKfycbwvFjfdQQeDjr2BecUgKk4_tenDOPMCx9RrChKqljf1jYRcyFDikgwHD9yeuhIbtdI49g/exec
+Example Excel Link: https://docs.google.com/spreadsheets/d/1pcACiOcuAMHgkRNUmIvumFSURAlABq7y_CT-F_arwEc/edit?usp=sharing
+
 A fully collaborative Kanban board built using **Google Apps Script + Google Sheets**, enabling multiple users to manage tasks in real-time with seamless sync and zero page refresh.
 
 ---
